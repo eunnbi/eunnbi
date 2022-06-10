@@ -25,9 +25,9 @@
 
 ## 👑 Career & Projects
 
-<img src="career_projects.svg" height="330"/>
+<img src="career_projects.svg" height="280"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 ## 📊 My Github Stats
 
