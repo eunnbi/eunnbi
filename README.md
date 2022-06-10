@@ -32,12 +32,12 @@
 ## 📊 My Github Stats
 
 ![Eunbi Kang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eunnbi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunnbi&exclude_repo=github-readme-stats,eunnbi.github.io&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunnbi&exclude_repo=github-readme-stats,eunnbi.github.io&layout=compact&theme=dark)
 
 <br/><br/>
 
 <div align="center">
     <h2>😊 More Info 😊</h3>
     <a href="https://velog.io/@eunnbi"><img src="https://img.shields.io/badge/eunnbi.log-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-     <a href="mailto:jenabill@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+    <a href="mailto:jenabill@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 </div>
