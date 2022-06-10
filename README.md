@@ -25,7 +25,7 @@
 
 ## 👑 Career & Projects
 
-<img src="career_projects.svg" height="230"/>
+<img src="career_projects.svg" height="450"/>
 
 <br/><br/><br/><br/>
 
