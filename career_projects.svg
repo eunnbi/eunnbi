@@ -34,21 +34,20 @@
 
             .career-item {
                 display: flex;
-                align-items: flex-start;
             }
             
             .career-item-date {
                 text-align: right;
             }
 
-            .career-item-column:first-child {
+            .career-item .career-item-column:first-child {
                 position: relative;
                 font-weight: bold;
                 padding: 22px 15px 25px 0;
                 width: 170px;
                 border-right: 1px solid rgba(0, 0, 0, 0.3);
             }
-            .career-item-column:last-child {
+            .career-item .career-item-column:last-child {
                 padding: 22px 0 25px 50px;
             }
             </style>
