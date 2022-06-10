@@ -23,7 +23,7 @@
 
 <br/><br/><br/>
 
-## 👑 Career & Projects
+## 🎈 Career & Projects
 
 <img src="career_projects.svg" height="280"/>
 
