@@ -38,6 +38,6 @@
 
 <div align="center">
     <h2>😊 More Info 😊</h3>
-    <a href="https://velog.io/@eunnbi"><img src="https://img.shields.io/badge/eunnbi.log-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+    <a href="https://velog.io/@eunnbi" target="_blank"><img src="https://img.shields.io/badge/eunnbi.log-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
     <a href="mailto:jenabill@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 </div>
