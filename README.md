@@ -25,7 +25,7 @@
 
 ## 🎈 Career & Projects
 
-<img src="career_projects.png" height="280" width="420"/>
+<img src="career_projects.png" />
 
 <br/><br/>
 
