@@ -28,7 +28,7 @@
 | Date           | Contents                      | Explanation                      |
 | ----------------- | -------------------------------- | ----------------------------------- |
 | 2020.03 ~         | **Sungkyunkwan University** 🎓  | Bachelor of Statistics and Software |
-| 2022.03 ~ 2022.04 | **J2KB 6th & MoaMoa Project** 🐽 | team project, FE Developer, Unicorn 2nd place     |
+| 2022.03 ~ 2022.04 | **J2KB 6th & MoaMoa Project** 🐽 | team project, FE Developer, Unicorn 2nd place ✌️  |
 | 2022.06 ~         | **PetBook Project** 🐿️            | team project, FE Developer                        |
 
 <br/><br/><br/>
