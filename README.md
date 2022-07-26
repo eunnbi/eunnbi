@@ -36,7 +36,7 @@
 
 ## 📊 My Github Stats
 
-![Eunbi Kang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eunnbi&show_icons=true&theme=tokyonight)
+![Eunbi Kang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eunnbi&show_icons=true&theme=nightowl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eunnbi&count_private=true&layout=compact&theme=dark&hide=C%2B%2B)
 
 <br/><br/>
