@@ -30,7 +30,8 @@
 | 2020.03 ~         | **Sungkyunkwan University** 🎓  | Bachelor of Statistics and Software |
 | 2022.03 ~ 2022.04 | **J2KB 6th & MoaMoa Project** 🐽 | team project, FE Developer, Unicorn 2nd place ✌️  |
 |2022.06 ~ 2022.07 | **Link Memo Project** 🔗 | personal project, FE / BE Developer |
-| 2022.06 ~         | **PetBook Project** 🐿️            | team project, FE Developer                        |
+| 2022.06 ~         | **PetBook Project** 🐿️            | team project, FE Developer                        |'
+| 2022.08 | **KU hackathon - AIMECO** 🌱 | team project, FE Developer, 5th place out of 18 teams 🖐️ |
 
 <br/><br/><br/>
 
