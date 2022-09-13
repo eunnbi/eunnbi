@@ -1,6 +1,6 @@
 <h1 align="center">👋 Welcome to my Github~~</h1>
 
-<p align="center">Learn from yesterday and live for today. The most important thing is not to stop asking questions.<br/><strong>Through questions❓, I am growing steadily🌱 and creating a web with good user experience.👥</strong></h3>
+<p align="center">Learn from yesterday and live for today. The most important thing is not to stop asking questions.<br/><strong>Through questions❓, I am growing steadily🌱 and creating a web with good user experience.👥</strong></p>
 
 <br/><br/><br/>
 
