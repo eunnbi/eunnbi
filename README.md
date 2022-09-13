@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=AD07C5&height=250&section=header&text=%E2%9C%A8%20Eunnbi&fontAlignY=40&fontAlign=45&animation=fadeIn&fontColor=ffffff)
-
-<h2 align="center">👋 Welcome to my Github~~</h1>
+<h1 align="center">👋 Welcome to my Github~~</h1>
 
 <p align="center">Learn from yesterday and live for today. The most important thing is not to stop asking questions.<br/><strong>Through questions❓, I am growing steadily🌱 and creating a web with good user experience.👥</strong></h3>
 
