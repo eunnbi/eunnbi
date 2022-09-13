@@ -44,6 +44,7 @@
 
 <div align="center">
     <h2>😊 More Info 😊</h3>
-    <a href="https://velog.io/@eunnbi" target="_blank"><img src="https://img.shields.io/badge/eunnbi.log-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-    <a href="mailto:jenabill@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+    <a href="https://velog.io/@eunnbi" target="_blank"><img src="https://img.shields.io/badge/eunnbi.log-a7f3d0?style=for-the-badge&logo=velog&logoColor=black"/></a>
+    <a href="https://portfolio-eunnbi.vercel.app/"><img src="https://img.shields.io/badge/💜 Portfolio-ede9fe?style=for-the-badge"/></a>
+    <a href="mailto:jenabill@naver.com"><img src="https://img.shields.io/badge/Email-e0f2fe?style=for-the-badge&logo=Mail.Ru&logoColor=black"/></a>
 </div>
