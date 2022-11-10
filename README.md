@@ -1,8 +1,10 @@
-<h1 align="center">👋 Welcome to my Github~~</h1>
+<div align="center">
+<h1>👋 Welcome to my Github~~</h1>
+<a href="https://portfolio-eunnbi.vercel.app/"><img src="https://img.shields.io/badge/🐣 eunnbi.dev-222222"/></a>
+<a href="mailto:jenabill@naver.com"><img src="https://img.shields.io/badge/✉️ email-d3e3f2"/></a>
+</div>
 
-<p align="center">"Learn from yesterday and live for today. The most important thing is not to stop asking questions."<br/><strong>Through questions❓, I am growing steadily🌱 and creating a web with good user experience.👥</strong></p>
-
-<br/><br/><br/>
+<br/><br/>
 
 ## 👩🏻‍💻 My Tech Stack
 
@@ -15,11 +17,10 @@
 **Library & Framework**
 
 <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux Saga-999999?style=flat&logo=Redux-Saga&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
-<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 ## 🎈 Career & Projects
 
@@ -31,7 +32,7 @@
 | 2022.06 ~         | PetBook Project 🐇            | team project, FE Developer, In progress 🚀 |
 | 2022.08 | KU hackathon - AIMECO 🌱 | team project, FE Developer, 5th place 🖐️ |
 
-<br/><br/><br/>
+<br/><br/>
 
 ## 📊 My Github Stats
 
