@@ -1,5 +1,5 @@
-<div align="center">
-<h1>👋 Welcome to my Github~~</h1>
+<div>
+<h1>Eunbi Kang's Github</h1>
 <a href="https://portfolio-eunnbi.vercel.app/"><img src="https://img.shields.io/badge/🐣 eunnbi.dev-222222"/></a>
 <a href="mailto:jenabill@naver.com"><img src="https://img.shields.io/badge/✉️ email-d3e3f2"/></a>
 </div>
