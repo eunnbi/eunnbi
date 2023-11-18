@@ -1,7 +1,6 @@
-### Hi there, I'm Eunbi Kang. 👋 <br/> 
+### Hi there 👋 <br/> 
 - 🎓 I'm a student at the Sungkyunkwan University.
 - 🌱 I'm currently learning Typescript, Next.js, and Vue3.
-- 🚀 I'm participating in the petbook project as a front-end developer.
 
 <br/>
 
