@@ -6,7 +6,6 @@
 <br/>
 
 <div>
-  <a href="https://www.eunnbi.dev"><img src="https://img.shields.io/badge/🐣 eunnbi.dev-222222"/></a>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jenabill" alt="Solved.ac 프로필"/>
 </div>
 
